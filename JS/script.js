@@ -5,7 +5,7 @@ $(document).ready(function() {
 
     // Function to search for a recipe using the user input
     function searchRecipe(input) {
-        let apiKey = "5d5d79c2c0msh5d8b76850693b7ep1e1c05jsn7b1b3e77821b";
+        let apiKey = "180a86cfb935bc89c556dfbb06e5ffda";
         let recipeURL = "https://edamam-recipe-search.p.rapidapi.com/search?q=" + input + "&rapidapi-key=" + apiKey;
 
         $.ajax({

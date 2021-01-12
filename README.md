@@ -1,8 +1,8 @@
 # What's for Dinner? 
 
-Explore the [project page](https://github.com/cynthiwu/whats-for-dinner)
+Explore the [project page](https://github.com/luckyian/whats-for-dinner)
 
-View it live on [github-pages](https://cynthiwu.github.io/whats-for-dinner/)
+View it live on [github-pages](https://luckyian.github.io/whats-for-dinner/)
 
 ## Table of Contents
 - [About The Project](#about-the-project)
